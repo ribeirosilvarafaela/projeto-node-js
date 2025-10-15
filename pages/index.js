@@ -1,5 +1,8 @@
+import database from "../../../infra/database.js";
+
 function Home() {
-  return <h1> Mais uma forma de procrastinar</h1>;
+  console.log(database);
+  return <h1> Bonecão do Posto, uhuh</h1>;
 }
 
 export default Home;
