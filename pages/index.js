@@ -90,11 +90,7 @@ function Home() {
       </section>
 
       <footer style={{ marginTop: 24 }}>
-        <p>
-          Quer que eu gere uma versão Markdown desta receita pra adicionar ao
-          repositório? Posso também adaptar para vegano ou criar uma página com
-          estilos mais sofisticados.
-        </p>
+        <p>Gerado por IA</p>
       </footer>
     </main>
   );
